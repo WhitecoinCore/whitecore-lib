@@ -4570,9 +4570,9 @@ addNetwork({
   pubkeyhash: 0x49,
   privatekey: 0xC9,
   scripthash: 0x57,
-  xpubkey: 0x0488b21e,
-  xprivkey: 0x04887f1e,
-  networkMagic: 0x048894ed,
+  xpubkey: 0x04887f1e,
+  xprivkey: 0x048894ed,
+  networkMagic: 0x182d43f3,
   port: 15814,
   dnsSeeds: [
     'dnsseed.oizopower.nl',
@@ -4581,6 +4581,7 @@ addNetwork({
     'seed3.oizopower.nl'
   ]
 });
+
 /**
  * @instance
  * @member Networks#livenet
