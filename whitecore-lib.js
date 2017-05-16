@@ -18356,7 +18356,7 @@ module.exports={
   "_args": [
     [
       "elliptic@https://registry.npmjs.org/elliptic/-/elliptic-3.0.3.tgz",
-      "/home/oizopower/copay/bitcore-lib"
+      "/home/janko33/copay/bitcore-lib"
     ]
   ],
   "_from": "elliptic@=3.0.3",
